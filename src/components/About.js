@@ -1,8 +1,8 @@
 import React, { Component } from "react";
 import { Icon } from "@iconify/react";
-import angularIcon from "@iconify/icons-logos/angular-icon";
-import reactIcon from "@iconify/icons-logos/react";
-import vueIcon from "@iconify/icons-logos/vue";
+// import angularIcon from "@iconify/icons-logos/angular-icon";
+// import reactIcon from "@iconify/icons-logos/react";
+// import vueIcon from "@iconify/icons-logos/vue";
 import html5 from "@iconify/icons-logos/html-5";
 import css3 from "@iconify/icons-logos/css-3";
 import sass from "@iconify/icons-logos/sass";
