@@ -1,0 +1,195 @@
+{
+    "basic_info": {
+      "description_header": "Hey there!",
+      "description": "👋 I'm Taj Cohen and I am an email developer, specializing in HTML & CSS. I have a passion for collaborating with companies and creatives to deliver an optimal responsive email experience to inboxes all over the world by designing, developing, testing, and ultimately launching great projects. I retain the practice and discipline needed to squeeze my foot through the door of this industry with confidence and flair.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Smartwatch App (Promotional)",
+        "startDate": "2021",
+        "description": "This was a personal project for a fictitious product, created for study purposes only. This email was created using tradition HTML table practices with inline css stylings.",
+        "images": [
+          "/images/promotional/hero-watch.png",
+          "/images/promotional/hero-watch-2.png"
+        ],
+        "url": "https://htmlpreview.github.io/?https://github.com/lee-android/hero-watch-app-email/blob/master/index.html",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          }
+        ]
+      },
+      {
+        "title": "Future Noodles (Newsletter)",
+        "startDate": "2021",
+        "description": "This was a personal project, recreated from a real email for study purposes only. This email was created using the MJML framework.",
+        "images": [
+          "/images/newsletter/future-noodles.png",
+          "/images/newsletter/future-noodles-2.png"
+        ],
+        "url": "https://htmlpreview.github.io/?https://github.com/lee-android/future-noodles-newsletter/blob/master/index.html",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          }
+        ]
+      },
+      {
+        "title": "Beats Headphones (Landing Page)",
+        "startDate": "2020",
+        "description": "This was a personal project for a fictitious product, created for study purposes only. This landing page was created using tradition HTML, CSS, and javascript practices.",
+        "images": [
+          "/images/landing-page/headphones-page.png",
+          "/images/landing-page/headphones-page-2.png"
+        ],
+        "url": "https://confident-raman-bb4adb.netlify.app/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          }
+        ]
+      },
+      {
+        "title": "5.11 Tactical (Promotional)",
+        "startDate": "2021",
+        "description": "This was a personal project, recreated from a real email for study purposes only. This email was created using the MJML framework.",
+        "images": [
+          "/images/promotional/511-tactical.png",
+          "/images/promotional/511-tactical-2.png"
+        ],
+        "url": "https://htmlpreview.github.io/?https://github.com/lee-android/511-email/blob/master/index.html",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          }
+        ]
+      },
+      {
+        "title": "Ledger Biiiiiites (Newsletter)",
+        "startDate": "2021",
+        "description": "This was a personal project, recreated from a real email for study purposes only. This email was created using the MJML framework, in conjunction with standard HTML table structures for the newsletter's footer.",
+        "images": [
+          "/images/newsletter/ledger-newsletter.png",
+          "/images/newsletter/ledger-newsletter-2.png",
+          "/images/newsletter/ledger-newsletter-3.png"
+        ],
+        "url": "https://htmlpreview.github.io/?https://github.com/lee-android/ledger-newsletter/blob/master/index.html",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          }
+        ]
+      },
+      {
+        "title": "BBC ICECREAM Halloween (Promotional)",
+        "startDate": "2021",
+        "description": "This was a personal project, recreated from a real email for study purposes only. This email was created using the MJML framework.",
+        "images": [
+          "/images/promotional/bbc-icecream.png",
+          "/images/promotional/bbc-icecream-2.png"
+        ],
+        "url": "https://htmlpreview.github.io/?https://github.com/lee-android/511-email/blob/master/index.html",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          }
+        ]
+      },
+      {
+        "title": "Spotify Premium Receipt (Transactional)",
+        "startDate": "2021",
+        "description": "This was a personal project, recreated from a real email for study purposes only. This email was created using the MJML framework.",
+        "images": [
+          "/images/transactional/spotify.png",
+          "/images/transactional/spotify-2.png"
+        ],
+        "url": "https://htmlpreview.github.io/?https://github.com/lee-android/spotify-transactional-email/blob/master/index.html",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "DefOpenSource",
+        "title": "Front-End Developer",
+        "years": "10.2019 - present",
+        "mainTech": [
+          "Angular 8/9/10"
+        ],
+        "technologies": [
+          "REST API",
+          "RxJS",
+          "JavaScript",
+          "Bootstrap",
+          "MDBootstrap",
+          "EF Core",
+          ".NET Core",
+          "SignalR",
+          "Angular Material"
+        ]
+      },
+      {
+        "company": "Serros Solutions",
+        "title": "Intern",
+        "years": "01.2018 - 09.2019",
+        "mainTech": [
+          "Angular 7/8"
+        ],
+        "technologies": [
+          "RxJS",
+          "Django",
+          "PHP",
+          "JavaScript",
+          "DHTMLX Gantt"
+        ]
+      }
+    ]
+  }

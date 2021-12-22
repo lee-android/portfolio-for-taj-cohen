@@ -1,0 +1,59 @@
+{
+    "basic_info": {
+      "name": "Taj Cohen",
+      "titles": [ "HTML Email Developer"],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/lee-android",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/",
+          "class": "fab fa-instagram"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain colored",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain colored",
+          "level": "95"
+        },
+        {
+          "name": "Photoshop",
+          "class": "devicon-photoshop-plain colored",
+          "level": "70"
+        },
+        {
+          "name": "illustrator",
+          "class": "devicon-illustrator-plain colored",
+          "level": "70"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain colored",
+          "level": "70"
+        },
+        {
+          "name": "Sass",
+          "class": "devicon-sass-original colored",
+          "level": "75"
+        },
+        {
+          "name": "Gulp",
+          "class": "devicon-gulp-plain colored",
+          "level": "70"
+        }
+
+      ]
+    }
+  }
