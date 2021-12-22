@@ -51,14 +51,14 @@
         ]
       },
       {
-        "title": "Beats Headphones (Landing Page)",
-        "startDate": "2020",
-        "description": "This was a personal project for a fictitious product, created for study purposes only. This landing page was created using tradition HTML, CSS, and javascript practices.",
+        "title": "Spotify Premium Receipt (Transactional)",
+        "startDate": "2021",
+        "description": "This was a personal project, recreated from a real email for study purposes only. This email was created using the MJML framework.",
         "images": [
-          "/images/landing-page/headphones-page.png",
-          "/images/landing-page/headphones-page-2.png"
+          "/images/transactional/spotify.png",
+          "/images/transactional/spotify-2.png"
         ],
-        "url": "https://confident-raman-bb4adb.netlify.app/",
+        "url": "https://htmlpreview.github.io/?https://github.com/lee-android/spotify-transactional-email/blob/master/index.html",
         "technologies": [
           {
             "class": "devicon-html5-plain",
@@ -67,10 +67,6 @@
           {
             "class": "devicon-css3-plain",
             "name": "CSS"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "Javascript"
           }
         ]
       },
@@ -136,14 +132,14 @@
         ]
       },
       {
-        "title": "Spotify Premium Receipt (Transactional)",
-        "startDate": "2021",
-        "description": "This was a personal project, recreated from a real email for study purposes only. This email was created using the MJML framework.",
+        "title": "Beats Headphones (Landing Page)",
+        "startDate": "2020",
+        "description": "This was a personal project for a fictitious product, created for study purposes only. This landing page was created using tradition HTML, CSS, and javascript practices.",
         "images": [
-          "/images/transactional/spotify.png",
-          "/images/transactional/spotify-2.png"
+          "/images/landing-page/headphones-page.png",
+          "/images/landing-page/headphones-page-2.png"
         ],
-        "url": "https://htmlpreview.github.io/?https://github.com/lee-android/spotify-transactional-email/blob/master/index.html",
+        "url": "https://confident-raman-bb4adb.netlify.app/",
         "technologies": [
           {
             "class": "devicon-html5-plain",
@@ -152,9 +148,14 @@
           {
             "class": "devicon-css3-plain",
             "name": "CSS"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
           }
         ]
       }
+     
     ],
     "experience": [
       {
