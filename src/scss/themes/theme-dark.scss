@@ -11,7 +11,8 @@ body[data-theme="dark"] {
    }
 
    .header-icon {
-      color: #3C342C;
+      // color: #3C342C;
+      color: #eeeeee;
       opacity: 0.8;
    }
 
@@ -20,7 +21,8 @@ body[data-theme="dark"] {
    }
 
    .language {
-      background-color: #494949;
+      // background-color: #494949;
+      background-color: #303841;
    }
 
    .link-href {
@@ -33,23 +35,33 @@ body[data-theme="dark"] {
    }
 
    header {
-      background-color: #494949;
+      // background-color: #494949;
+      background-color: #303841;
       h1 {
          color: white;
       }
    }
 
    #about {
-      background-color: #7f7f7f;
+      // background-color: #7f7f7f;
+      background-color: #3A4750;
       h1 span {
          color: white;
       }
       .polaroid span {
-         background:  #6d6d6d;
+         // background:  #6d6d6d;
+         background:  #eee;
+         opacity: 0.5;
+      }
+      .polaroid:hover span {
+         // background:  #6d6d6d;
+         background:  #eee;
+         opacity: 1;
       }
       .card {
-         background: #6d6d6d;
-         color: white;
+         background: #eeeeee;
+         color: #555;
+         opacity: 0.9;
       }
    }
 
@@ -59,10 +71,11 @@ body[data-theme="dark"] {
          color: white !important;
       }
       .foto div {
-         background: #6d6d6d;
+         // background: #6d6d6d;
+         background: #eee;
       }
       .project-title-settings {
-         color: white;
+         color: #555;
       }
    }
 
@@ -97,7 +110,9 @@ body[data-theme="dark"] {
    }
 
    .modal-inside .modal-content {
-      background: #5b5b5b;
+      // background: #5b5b5b;
+      background: #555;
+      opacity: 0.96;
       color: white;
    }
 
