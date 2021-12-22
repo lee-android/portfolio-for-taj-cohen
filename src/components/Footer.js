@@ -22,7 +22,7 @@ class Footer extends Component {
           <div className="copyright py-4 text-center">
             <div className="container">
               <small>
-                Copyright &copy;{" "}
+                Powered by URNAD // "Copy-it-right" until at least the year 3000 &copy;{" "}
                 {this.props.sharedBasicInfo
                   ? this.props.sharedBasicInfo.name
                   : "???"}
