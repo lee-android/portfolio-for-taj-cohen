@@ -44,24 +44,9 @@
           "level": "70"
         },
         {
-          "name": "JavaScript",
-          "class": "devicon-javascript-plain colored",
-          "level": "70"
-        },
-        {
-          "name": "React",
-          "class": "devicon-react-plain colored",
-          "level": "70"
-        },
-        {
           "name": "Sass",
           "class": "devicon-sass-original colored",
           "level": "75"
-        },
-        {
-          "name": "Gulp",
-          "class": "devicon-gulp-plain colored",
-          "level": "70"
         },
         {
           "name": "Linux",

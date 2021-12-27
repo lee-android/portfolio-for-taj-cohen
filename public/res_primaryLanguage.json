@@ -132,6 +132,26 @@
         ]
       },
       {
+        "title": "YouTube Music (Promotional)",
+        "startDate": "2021",
+        "description": "This was a personal project, recreated from a real email for study purposes only. This email was created using the MJML framework.",
+        "images": [
+          "/images/promotional/youtube-music.png",
+          "/images/promotional/youtube-music-2.png"
+        ],
+        "url": "https://htmlpreview.github.io/?https://github.com/lee-android/youtube-music-email/blob/master/index.html",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          }
+        ]
+      },
+      {
         "title": "Beats Headphones (Landing Page)",
         "startDate": "2020",
         "description": "This was a personal project for a fictitious product, created for study purposes only. This landing page was created using tradition HTML, CSS, and javascript practices.",
