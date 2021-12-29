@@ -5,7 +5,7 @@ import { Icon } from "@iconify/react";
 // import vueIcon from "@iconify/icons-logos/vue";
 import html5 from "@iconify/icons-logos/html-5";
 import css3 from "@iconify/icons-logos/css-3";
-import sass from "@iconify/icons-logos/sass";
+import figma from "@iconify/icons-logos/figma";
 
 class About extends Component {
   render() {
@@ -43,7 +43,7 @@ class About extends Component {
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
                   <Icon
-                    icon={sass}
+                    icon={figma}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
                 </span>
