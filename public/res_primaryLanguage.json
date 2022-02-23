@@ -51,26 +51,6 @@
         ]
       },
       {
-        "title": "Grand Communications (Promotional)",
-        "startDate": "2021",
-        "description": "This was a personal project, created during a technical interview. This email was created using the MJML framework, but does include sections that needed to be coded using raw html.",
-        "images": [
-          "/images/promotional/grande-communications-1.png",
-          "/images/promotional/grande-communications-2.png"
-        ],
-        "url": "https://htmlpreview.github.io/?https://github.com/lee-android/astound-email-assignment/blob/master/index.html",
-        "technologies": [
-          {
-            "class": "devicon-html5-plain",
-            "name": "HTML"
-          },
-          {
-            "class": "devicon-css3-plain",
-            "name": "CSS"
-          }
-        ]
-      },
-      {
         "title": "Spotify Premium Receipt (Transactional)",
         "startDate": "2021",
         "description": "This was a personal project, recreated from a real email for study purposes only. This email was created using the MJML framework.",
