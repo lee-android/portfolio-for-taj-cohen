@@ -36,7 +36,6 @@ class Experience extends Component {
               background: "#AE944F",
               color: "#fff",
               textAlign: "center",
-              fontSize: "3rem",
             }}
             icon={<i className="fab fa-html5 experience-icon"></i>}
             key={i}
