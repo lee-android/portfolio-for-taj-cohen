@@ -191,6 +191,22 @@
           "JavaScript",
           "MJML"
         ]
+      },
+      {
+        "company": "RAPP Worldwide",
+        "title": "Front End Developer",
+        "years": "08/2022 - Present",
+        "mainTech": [
+          "HTML",
+          "AMPscript",
+          "JSON"
+        ],
+        "technologies": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Salesforce"
+        ]
       }
     ]
   }
