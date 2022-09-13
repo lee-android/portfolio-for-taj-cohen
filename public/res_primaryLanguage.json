@@ -179,20 +179,6 @@
     ],
     "experience": [
       {
-        "company": "ClickJet Media",
-        "title": "Email Developer / Email Designer",
-        "years": "02/2022 - 6/2022",
-        "mainTech": [
-          "HTML"
-        ],
-        "technologies": [
-          "HTML",
-          "CSS",
-          "JavaScript",
-          "MJML"
-        ]
-      },
-      {
         "company": "RAPP Worldwide",
         "title": "Front End Developer",
         "years": "08/2022 - Present",
@@ -206,6 +192,20 @@
           "CSS",
           "JavaScript",
           "Salesforce"
+        ]
+      },
+      {
+        "company": "ClickJet Media",
+        "title": "Email Developer / Email Designer",
+        "years": "02/2022 - 6/2022",
+        "mainTech": [
+          "HTML"
+        ],
+        "technologies": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "MJML"
         ]
       }
     ]
