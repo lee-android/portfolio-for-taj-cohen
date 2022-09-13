@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "Taj Cohen",
-      "titles": [ "Email Developer", "Creative Specialist", "Email Marketing Specialist"],
+      "titles": [ "Front End Developer", "Email Developer", "Email Marketing Specialist", "Creative Specialist"],
       "social": [
         {
           "name": "github",
@@ -44,25 +44,10 @@
           "level": "70"
         },
         {
-          "name": "Sass",
-          "class": "devicon-sass-original colored",
-          "level": "75"
-        },
-        {
-          "name": "Linux",
-          "class": "devicon-linux-plain",
+          "name": "Salesforce Marketing Cloud",
+          "class": "devicon-salesforce-original colored",
           "level": "70"
         },
-        {
-          "name": "Nodejs",
-          "class": "devicon-nodejs-plain colored",
-          "level": "70"
-        },
-        {
-          "name": "Python",
-          "class": "devicon-python-plain colored",
-          "level": "70"
-        }
 
       ]
     }
