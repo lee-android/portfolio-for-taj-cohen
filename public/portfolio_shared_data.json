@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "Taj Cohen",
-      "titles": [ "Front End Developer", "Email Developer", "Email Marketing Specialist", "Creative Specialist"],
+      "titles": [ "Front End Developer", "Email Developer", "Email Marketing Specialist"],
       "social": [
         {
           "name": "github",
@@ -14,7 +14,7 @@
           "class": "fab fa-linkedin"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "myProfile.png"
     },
     "skills": {
       "icons": [
