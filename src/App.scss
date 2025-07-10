@@ -8,6 +8,10 @@ html {
 	padding: 0;
 }
 
+body {
+  font-family: 'Roboto', sans-serif !important;
+}
+
 
 .aligner {
 	display: flex;
@@ -251,6 +255,12 @@ header h1 {
 	color: black;
 	font-weight: normal !important;
 	font-family: "Roboto", sans-serif !important;
+}
+
+.experience-badge,
+.main-badge {
+  font-family: 'Roboto', sans-serif !important;
+  font-weight: normal !important;
 }
 
 
