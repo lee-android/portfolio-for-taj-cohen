@@ -37,7 +37,7 @@ class Experience extends Component {
               color: "#fff",
               textAlign: "center",
             }}
-            icon={<i className="fa-dot-circle-o"></i>}
+            icon={<i className="fa-code experience-icon"></i>}
             key={i}
           >
             <div style={{ textAlign: "left", marginBottom: "4px" }}>
