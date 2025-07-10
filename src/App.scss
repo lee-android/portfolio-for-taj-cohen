@@ -23,6 +23,7 @@ html {
 .title-styles {
 	font-family: "Roboto", sans-serif !important;
 	font-size: 250%;
+	font-weight: normal;
 }
 
 .header-icon {
@@ -251,6 +252,14 @@ header h1 {
 	color: black;
 	font-weight: normal !important;
 	font-family: "Roboto", sans-serif;
+}
+
+.experience-badge, .main-badge {
+text-align: left!important;
+padding: 5px 8px!important;
+vertical-align: baseline;
+font-weight: normal !important;
+font-family: "Roboto", sans-serif;
 }
 
 .vertical-timeline-element-date {
