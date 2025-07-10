@@ -233,9 +233,6 @@ header h1 {
     vertical-align: text-top ;
 }
 
-.text-blackv {
-	color: #fff !important;
-}
 
 .main-badge {
 	font-size: 13px !important;
@@ -410,7 +407,7 @@ header h1 {
 	font: 18px/24px 'opensans-bold', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 3px;
-	color: #fff;
+	color: #fff !important;
 	text-align: center;
 }
 
