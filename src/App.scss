@@ -1,6 +1,5 @@
 @import '../src/scss/themes/theme-dark.scss';
 @import '../src/scss/themes/theme-light.scss';
-@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 
 html {
 	font-size: 62.5%;
@@ -240,7 +239,7 @@ header h1 {
 	background-color: #AE944F !important;
 	color: white;
 	font-weight: normal !important;
-	font-family: "Roboto", sans-serif;
+	font-family: "Roboto", sans-serif !important;
 }
 
 .experience-badge {
@@ -251,7 +250,7 @@ header h1 {
 	background-color: #f9f5e9 !important;
 	color: black;
 	font-weight: normal !important;
-	font-family: "Roboto", sans-serif;
+	font-family: "Roboto", sans-serif !important;
 }
 
 
