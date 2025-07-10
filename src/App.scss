@@ -225,9 +225,13 @@ header h1 {
 }
 
 .experience-icon {
-	font-size: 300%;
+	font-size: 200%;
 	margin-top: 25%;
 	text-align: center;
+}
+
+.fa-code .experience-icon::before{
+	vertical-align: text-top;
 }
 
 .main-badge {
