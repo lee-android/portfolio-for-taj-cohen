@@ -183,17 +183,14 @@
         "title": "Front End Developer",
         "years": "August 23, 2022 - June 30, 2025",
         "mainTech": [
-          "AMPscript",
-          "JSON",
-          "HTML",
-          "Javascript"
-        ],
-        "technologies": [
           "HTML",
           "CSS",
           "JavaScript",
           "Salesforce Marketing Cloud",
           "Umbraco"
+        ],
+        "technologies": [
+          
         ]
       },
       {
@@ -201,13 +198,13 @@
         "title": "Email Developer / Email Designer",
         "years": "Feb. 22, 2022 - June 28, 2022",
         "mainTech": [
-          "HTML"
-        ],
-        "technologies": [
           "HTML",
           "CSS",
           "JavaScript",
           "MJML"
+        ],
+        "technologies": [
+          
         ]
       }
     ]
