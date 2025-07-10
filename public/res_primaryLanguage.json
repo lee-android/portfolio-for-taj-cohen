@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hello,",
-      "description": "👋 I'm Taj Cohen, an email developer who specializes in HTML and CSS. I've been coding since I was a kid, customizing my MySpace page to stand out as the most creative in my class—without even realizing I was laying the groundwork for a future career. I've always loved advertising, and as I've gotten older, I've stopped feeling weird about that. Marketing drives everything in this country, and that makes email development feel like the perfect place to land. With a background in art and a natural eye for design, I enjoy collaborating with companies and creatives to build clean, responsive, accessible emails that actually perform. Whether I'm discussing a layout, troubleshooting rendering issues, or running QA, I take pride in building emails that work everywhere and look great doing it.",
+      "description": "👋 I'm Taj Cohen, a front-end email developer who specializes in responsive HTML and CSS for email. I've been coding since I was a kid tweaking my MySpace layout, but today I build modern, accessible, and high-performing email campaigns for real brands that reach real inboxes. I'm experienced in turning Figma files and creative direction into clean, production-ready code that renders perfectly across email clients. I've worked across multiple platforms, including Salesforce Marketing Cloud, and have used AMPscript to drive personalization at scale. My QA process includes cross-client testing with Litmus, accessibility checks, dark mode previews, and mobile optimization. Beyond the code, I bring a strong understanding of marketing strategy and brand voice — I know how to write an email that looks great and gets results. With a background in both design and advertising, I love collaborating with creative teams to build out campaigns that are beautiful, functional, and on-message. Whether it's newsletters, promos, transactional emails, or dynamic journeys, I'm passionate about crafting experiences that land right — visually and technically.",
       "section_name": {
         "about": "About",
         "projects": "Projects",
@@ -181,15 +181,19 @@
       {
         "company": "RAPP Worldwide",
         "title": "Front End Developer",
-        "years": "August 23, 2022 - Present",
+        "years": "August 23, 2022 - June 30, 2025",
         "mainTech": [
-          "AMPscript"
+          "AMPscript",
+          "JSON",
+          "HTML",
+          "Javascript"
         ],
         "technologies": [
           "HTML",
           "CSS",
           "JavaScript",
-          "Salesforce"
+          "Salesforce Marketing Cloud",
+          "Umbraco"
         ]
       },
       {
