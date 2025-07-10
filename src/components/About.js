@@ -78,6 +78,7 @@ class About extends Component {
                       height: "auto",
                       fontSize: "160%",
                       lineHeight: "200%",
+                      padding: "0 45px 45px 45px"
                     }}
                   >
                     <br />
