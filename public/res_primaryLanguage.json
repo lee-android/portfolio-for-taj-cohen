@@ -11,6 +11,25 @@
     },
     "projects": [
       {
+        "title": "EXXON Mobil - Cinco De Mayo 2023 (Promotional)",
+        "startDate": "2023",
+        "description": "PROFESSIONAL PROJECT - This was a seasonal campaign I built for ExxonMobil Rewards+ during my time at Rapp. It was a Cinco de Mayo email designed to tease an upcoming offer and drive engagement. I hand-coded the email using responsive HTML and inline CSS, working from Figma files provided by the design team. I ensured the layout was pixel-perfect and consistent across major email clients through Litmus testing. I also handled link validation, accessibility checks, and made sure all tracking parameters were in place. The goal was to drive users to the station locator ahead of the promo window, so I worked closely with our deployment team to make sure timing, offer logic, and CTA alignment were all on point.",
+        "images": [
+          "/images/emobil_email/screenshot1.png"
+        ],
+        "url": "https://htmlpreview.github.io/?https://github.com/lee-android/em-promotional-email/blob/main/em_promo_cdm_email.html",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          }
+        ]
+      },
+      {
         "title": "Smartwatch App (Promotional)",
         "startDate": "2021",
         "description": "This was a personal project for a fictitious product, created for study purposes only. This email was created using tradition HTML table practices with inline css stylings.",
