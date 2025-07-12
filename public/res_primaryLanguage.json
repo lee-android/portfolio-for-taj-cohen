@@ -5,8 +5,9 @@
       "section_name": {
         "about": "About",
         "projects": "Projects",
-        "skills": "Skills",
-        "experience": "Experience"
+        "experience": "Experience",
+        "skills": "Skills"
+        
       }
     },
     "projects": [
