@@ -199,6 +199,22 @@
     ],
     "experience": [
       {
+        "company": "Great American Media",
+        "title": "Sr. Digital Marketing Specialist",
+        "years": "August 2025 - Present",
+        "mainTech": [
+          "HTML",
+          "CSS",
+          "JQuery",
+          "JavaScript",
+          "Salesforce Marketing Cloud",
+          "Umbraco"
+        ],
+        "technologies": [
+          
+        ]
+      },
+      {
         "company": "RAPP Worldwide (Omnicom)",
         "title": "Front End Developer",
         "years": "August 23, 2022 - June 30, 2025",
