@@ -1,0 +1,44 @@
+updated experience (manifestation push)
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	modified:   public/res_primaryLanguage.json
+#	modified:   resume.pdf
+#
+# ------------------------ >8 ------------------------
+# Do not modify or remove the line above.
+# Everything below it will be ignored.
+diff --git a/public/res_primaryLanguage.json b/public/res_primaryLanguage.json
+index 89726de..fd0aaec 100644
+--- a/public/res_primaryLanguage.json
++++ b/public/res_primaryLanguage.json
+@@ -198,6 +198,22 @@
+      
+     ],
+     "experience": [
++      {
++        "company": "Great American Media",
++        "title": "Sr. Digital Marketing Specialist",
++        "years": "August 2025 - Present",
++        "mainTech": [
++          "HTML",
++          "CSS",
++          "JQuery",
++          "JavaScript",
++          "Salesforce Marketing Cloud",
++          "Umbraco"
++        ],
++        "technologies": [
++          
++        ]
++      },
+       {
+         "company": "RAPP Worldwide (Omnicom)",
+         "title": "Front End Developer",
+diff --git a/resume.pdf b/resume.pdf
+index a3ed580..66eadff 100644
+Binary files a/resume.pdf and b/resume.pdf differ
