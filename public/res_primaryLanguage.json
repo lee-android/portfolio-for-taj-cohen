@@ -10,54 +10,6 @@
         
       }
     },
-     "experience": [
-      {
-        "company": "First Texas Homes",
-        "title": "Marketing Specialist",
-        "years": "September 2025 - Present",
-        "mainTech": [
-          "HTML",
-          "CSS",
-          "JSON",
-          "JavaScript",
-          "Lasso",
-          "Homebuilder CRM"
-        ],
-        "technologies": [
-          
-        ]
-      },
-      {
-        "company": "RAPP Worldwide (Omnicom)",
-        "title": "Front End Developer",
-        "years": "August 2022 - June 2025",
-        "mainTech": [
-          "HTML",
-          "CSS",
-          "JSON",
-          "JavaScript",
-          "Salesforce Marketing Cloud",
-          "Umbraco"
-        ],
-        "technologies": [
-          
-        ]
-      },
-      {
-        "company": "ClickJet Media",
-        "title": "Email Developer / Email Designer",
-        "years": "Feb. 2022 - June 2022",
-        "mainTech": [
-          "HTML",
-          "CSS",
-          "JavaScript",
-          "MJML"
-        ],
-        "technologies": [
-          
-        ]
-      }
-    ],
     "projects": [
       {
         "title": "EXXON Mobil - Cinco De Mayo 2023 (Promotional)",
@@ -244,5 +196,50 @@
         ]
       }
      
+    ],
+    "experience": [
+      {
+        "company": "Z Gallerie",
+        "title": "Email Marketing Specialist",
+        "years": "September 2025 - Present",
+        "mainTech": [
+          "HTML",
+          "CSS",
+          "Klayvio"
+        ],
+        "technologies": [
+          
+        ]
+      },
+      {
+        "company": "RAPP Worldwide (Omnicom)",
+        "title": "Front End Developer",
+        "years": "August 2022 - June 2025",
+        "mainTech": [
+          "HTML",
+          "CSS",
+          "JSON",
+          "JavaScript",
+          "Salesforce Marketing Cloud",
+          "Umbraco"
+        ],
+        "technologies": [
+          
+        ]
+      },
+      {
+        "company": "ClickJet Media",
+        "title": "Email Developer / Email Designer",
+        "years": "Feb. 2022 - June 2022",
+        "mainTech": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "MJML"
+        ],
+        "technologies": [
+          
+        ]
+      }
     ]
   }
